@@ -23,6 +23,9 @@ Eslövs Flygklubb is a **non-profit aviation club**, focused on training, flying
 ## Website
 Our official website (in Swedish) provides further details about the club, training programs, and airfield operations: [https://eslovsflygklubb.se](https://eslovsflygklubb.se)
 
+## Join Us as a Developer
+If you are interested in contributing as a developer, please reach out to **[@malmgrenola](https://github.com/malmgrenola)** or contact the flying club via email.
+
 ---
 **Contributions & Contact**
 This repository is used for managing internal projects, but if you're interested in contributing or learning more, feel free to reach out via our website or visit us at the airfield!
